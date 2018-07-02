@@ -1,0 +1,18 @@
+/* variables
+---------------------*/
+
+// container
+$container: 1140px;
+
+// grid columns
+$grid-columns: 12;
+
+// breakpoints
+$breakpoint: (
+        sm: 768px,
+        md: 991px,
+        lg: 1190px
+);
+
+// grid spacing
+$gutter: 20px;
